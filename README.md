@@ -11,3 +11,14 @@
 ![4](https://user-images.githubusercontent.com/71402528/106350830-e7caaf00-62fd-11eb-8928-63594b6de37f.png)
 
 ![5](https://user-images.githubusercontent.com/71402528/106350841-f7e28e80-62fd-11eb-96e7-65aaf7f24aff.png)
+
+
+<br />
+
+# 🙏 Thanks
+
+<a href="https://github.com/Sudipta2002/Web-Pages/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sudipta2002/Web-Pages" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
